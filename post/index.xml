@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pushkar Deshpande</title>
+    <link>https://pushkya.github.io/myportfolio/post/</link>
+    <description>Recent content in Projects on Pushkar Deshpande</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://pushkya.github.io/myportfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion Recommender</title>
+      <link>https://pushkya.github.io/myportfolio/post/project2/</link>
+      <pubDate>Wed, 10 Aug 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://pushkya.github.io/myportfolio/post/project2/</guid>
+      <description>Overview Humans are inevitably drawn towards something that is visually more attractive. This tendency of humans has led to development of fashion industry over the course of time. With introduction of recommender systems in multiple domains, retail industries are coming forward with investments in latest technology to improve their business. Fashion has been in existence since centuries and will be prevalent in the coming days as well. Women are more correlated with fashion and style, and they have a larger product base to deal with making it difficult to take decisions.</description>
+    </item>
+    
+    <item>
+      <title>Movie Recommendation and Sentiment Analysis</title>
+      <link>https://pushkya.github.io/myportfolio/post/project1/</link>
+      <pubDate>Sat, 09 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://pushkya.github.io/myportfolio/post/project1/</guid>
+      <description>Overview The movies are recommended based on the content of the movie you entered or selected. The main parameters that are considered for the recommendations are the genre, director, and top 3 casts. The details of the movies, such as title, genre, runtime, rating, poster, casts, etc., are fetched from TMDB. The reviews of each individual movie given by the users are &amp;ldquo;web-scraped&amp;rdquo; from the IMDB website with the help of beautifulsoup4, and the reviews are subjected to sentiment analysis, where the model predicts whether the review is positive or negative.</description>
+    </item>
+    
+    <item>
+      <title>IPL Score Prediction</title>
+      <link>https://pushkya.github.io/myportfolio/post/project3/</link>
+      <pubDate>Wed, 11 Aug 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://pushkya.github.io/myportfolio/post/project3/</guid>
+      <description>Overview Indian Premier League is the biggest cricket league in the entire world and is one of the most watched league. Every year we see the match and in between matches we often see win prediction for the batting/bowling team in the 2nd inning. I wondered how they calculate this win prediction and based on which parameters. This motivated to find out how its done and hence this project was introduced.</description>
+    </item>
+    
+    <item>
+      <title>Traffic Sign Detection Using CNN and AlexNet</title>
+      <link>https://pushkya.github.io/myportfolio/post/project-4/</link>
+      <pubDate>Wed, 12 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://pushkya.github.io/myportfolio/post/project-4/</guid>
+      <description>Overview In the world of Artificial Intelligence and advancement in technologies, many researchers and big companies like Tesla, Uber, Google, Mercedes-Benz, Toyota, Ford, Audi, etc are working on autonomous vehicles and self-driving cars. So, for achieving accuracy in this technology, the vehicles should be able to interpret traffic signs and make decisions accordingly.
+There are several different types of traffic signs like speed limits, no entry, traffic signals, turn left or right, children crossing, no passing of heavy vehicles, etc.</description>
+    </item>
+    
+    <item>
+      <title>Face Recognition System using VGG16</title>
+      <link>https://pushkya.github.io/myportfolio/post/project5/</link>
+      <pubDate>Sun, 13 Sep 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://pushkya.github.io/myportfolio/post/project5/</guid>
+      <description>Overview Face recognition using transfer learning Here , i have applied VGG16 to do prediction. My dataset contain 5 folders in which there are 5 celebrities so based on this we will do prediction.
+There are various types of transfer learning model for image classification such as
+Xception VGG16 VGG19 ResNet50 InceptionV3 InceptionResnet MobileNet DenseNet NASNet MobileNetV2 Here, We are going to use VGG16 to train the model.VGG16 is a pre-trained model.</description>
+    </item>
+    
+  </channel>
+</rss>
